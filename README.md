@@ -1,5 +1,3 @@
-# Sales-Dashboard
-Sales Dashboard using pivot table and pivot chart
 # Sales Analysis Dashboard
 
 This repository contains a **Sales Analysis Dashboard** project created to visualize key sales metrics and insights using Excel (Pivot Tables, Charts, and Slicers). The dashboard provides an interactive and clear overview of the sales performance by category, sub-category, and region.
