@@ -67,8 +67,4 @@ The dashboard includes the following metrics and visualizations:
 3. Hover over charts to see detailed information.
 4. Explore top products and profits by sub-category.
 
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
